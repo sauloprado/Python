@@ -1,3 +1,3 @@
 # Python
 
-Meus arqvuiso de exemplos de Python.
+Meus arquivos de exemplos de Python.
