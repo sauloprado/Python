@@ -70,10 +70,8 @@ python aula01.py
 
 ## 📬 Contato
 
-Dúvidas, sugestões ou ideias de melhoria? Sinta-se à vontade para entrar em contato:
-
 💼 **Saulo Prado**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sauloprado)
+🔗 [LinkedIn](https://www.linkedin.com/in/saulo-prado-ab4a0b96/)
 
 ---
 
